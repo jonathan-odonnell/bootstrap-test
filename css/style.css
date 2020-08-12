@@ -34,10 +34,6 @@ body {
     background-color: rgba(0, 0, 0, 0.25);
 }
 
-.navbar .d-none a {
-    margin-left: 5px;
-}
-
 .navbar .navbar-toggler {
     border: 0;
 }
